@@ -1,0 +1,1 @@
+This is some experimentation with pyautogen. To use it yourself, you'll have to create an OAI_CONFIG_LIST file for your API keys.
